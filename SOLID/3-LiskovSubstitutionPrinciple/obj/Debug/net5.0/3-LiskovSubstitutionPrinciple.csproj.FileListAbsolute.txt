@@ -1,0 +1,16 @@
+C:\Users\gaben\MisRepositorios\CSharp-DesignPatterns\SOLID\3-LiskovSubstitutionPrinciple\obj\Debug\net5.0\3-LiskovSubstitutionPrinciple.csproj.AssemblyReference.cache
+C:\Users\gaben\MisRepositorios\CSharp-DesignPatterns\SOLID\3-LiskovSubstitutionPrinciple\obj\Debug\net5.0\3-LiskovSubstitutionPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gaben\MisRepositorios\CSharp-DesignPatterns\SOLID\3-LiskovSubstitutionPrinciple\obj\Debug\net5.0\3-LiskovSubstitutionPrinciple.AssemblyInfoInputs.cache
+C:\Users\gaben\MisRepositorios\CSharp-DesignPatterns\SOLID\3-LiskovSubstitutionPrinciple\obj\Debug\net5.0\3-LiskovSubstitutionPrinciple.AssemblyInfo.cs
+C:\Users\gaben\MisRepositorios\CSharp-DesignPatterns\SOLID\3-LiskovSubstitutionPrinciple\obj\Debug\net5.0\3-LiskovSubstitutionPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\gaben\MisRepositorios\CSharp-DesignPatterns\SOLID\3-LiskovSubstitutionPrinciple\bin\Debug\net5.0\3-LiskovSubstitutionPrinciple.exe
+C:\Users\gaben\MisRepositorios\CSharp-DesignPatterns\SOLID\3-LiskovSubstitutionPrinciple\bin\Debug\net5.0\3-LiskovSubstitutionPrinciple.deps.json
+C:\Users\gaben\MisRepositorios\CSharp-DesignPatterns\SOLID\3-LiskovSubstitutionPrinciple\bin\Debug\net5.0\3-LiskovSubstitutionPrinciple.runtimeconfig.json
+C:\Users\gaben\MisRepositorios\CSharp-DesignPatterns\SOLID\3-LiskovSubstitutionPrinciple\bin\Debug\net5.0\3-LiskovSubstitutionPrinciple.runtimeconfig.dev.json
+C:\Users\gaben\MisRepositorios\CSharp-DesignPatterns\SOLID\3-LiskovSubstitutionPrinciple\bin\Debug\net5.0\3-LiskovSubstitutionPrinciple.dll
+C:\Users\gaben\MisRepositorios\CSharp-DesignPatterns\SOLID\3-LiskovSubstitutionPrinciple\bin\Debug\net5.0\ref\3-LiskovSubstitutionPrinciple.dll
+C:\Users\gaben\MisRepositorios\CSharp-DesignPatterns\SOLID\3-LiskovSubstitutionPrinciple\bin\Debug\net5.0\3-LiskovSubstitutionPrinciple.pdb
+C:\Users\gaben\MisRepositorios\CSharp-DesignPatterns\SOLID\3-LiskovSubstitutionPrinciple\obj\Debug\net5.0\3-LiskovSubstitutionPrinciple.dll
+C:\Users\gaben\MisRepositorios\CSharp-DesignPatterns\SOLID\3-LiskovSubstitutionPrinciple\obj\Debug\net5.0\ref\3-LiskovSubstitutionPrinciple.dll
+C:\Users\gaben\MisRepositorios\CSharp-DesignPatterns\SOLID\3-LiskovSubstitutionPrinciple\obj\Debug\net5.0\3-LiskovSubstitutionPrinciple.pdb
+C:\Users\gaben\MisRepositorios\CSharp-DesignPatterns\SOLID\3-LiskovSubstitutionPrinciple\obj\Debug\net5.0\3-LiskovSubstitutionPrinciple.genruntimeconfig.cache

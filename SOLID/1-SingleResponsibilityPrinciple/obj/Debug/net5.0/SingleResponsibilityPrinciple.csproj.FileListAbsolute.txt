@@ -1,0 +1,16 @@
+C:\Users\gaben\MisRepositorios\CSharp-DesignPatterns\SOLID\SingleResponsibilityPrinciple\bin\Debug\net5.0\SingleResponsibilityPrinciple.exe
+C:\Users\gaben\MisRepositorios\CSharp-DesignPatterns\SOLID\SingleResponsibilityPrinciple\bin\Debug\net5.0\SingleResponsibilityPrinciple.deps.json
+C:\Users\gaben\MisRepositorios\CSharp-DesignPatterns\SOLID\SingleResponsibilityPrinciple\bin\Debug\net5.0\SingleResponsibilityPrinciple.runtimeconfig.json
+C:\Users\gaben\MisRepositorios\CSharp-DesignPatterns\SOLID\SingleResponsibilityPrinciple\bin\Debug\net5.0\SingleResponsibilityPrinciple.runtimeconfig.dev.json
+C:\Users\gaben\MisRepositorios\CSharp-DesignPatterns\SOLID\SingleResponsibilityPrinciple\bin\Debug\net5.0\SingleResponsibilityPrinciple.dll
+C:\Users\gaben\MisRepositorios\CSharp-DesignPatterns\SOLID\SingleResponsibilityPrinciple\bin\Debug\net5.0\ref\SingleResponsibilityPrinciple.dll
+C:\Users\gaben\MisRepositorios\CSharp-DesignPatterns\SOLID\SingleResponsibilityPrinciple\bin\Debug\net5.0\SingleResponsibilityPrinciple.pdb
+C:\Users\gaben\MisRepositorios\CSharp-DesignPatterns\SOLID\SingleResponsibilityPrinciple\obj\Debug\net5.0\SingleResponsibilityPrinciple.csproj.AssemblyReference.cache
+C:\Users\gaben\MisRepositorios\CSharp-DesignPatterns\SOLID\SingleResponsibilityPrinciple\obj\Debug\net5.0\SingleResponsibilityPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gaben\MisRepositorios\CSharp-DesignPatterns\SOLID\SingleResponsibilityPrinciple\obj\Debug\net5.0\SingleResponsibilityPrinciple.AssemblyInfoInputs.cache
+C:\Users\gaben\MisRepositorios\CSharp-DesignPatterns\SOLID\SingleResponsibilityPrinciple\obj\Debug\net5.0\SingleResponsibilityPrinciple.AssemblyInfo.cs
+C:\Users\gaben\MisRepositorios\CSharp-DesignPatterns\SOLID\SingleResponsibilityPrinciple\obj\Debug\net5.0\SingleResponsibilityPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\gaben\MisRepositorios\CSharp-DesignPatterns\SOLID\SingleResponsibilityPrinciple\obj\Debug\net5.0\SingleResponsibilityPrinciple.dll
+C:\Users\gaben\MisRepositorios\CSharp-DesignPatterns\SOLID\SingleResponsibilityPrinciple\obj\Debug\net5.0\ref\SingleResponsibilityPrinciple.dll
+C:\Users\gaben\MisRepositorios\CSharp-DesignPatterns\SOLID\SingleResponsibilityPrinciple\obj\Debug\net5.0\SingleResponsibilityPrinciple.pdb
+C:\Users\gaben\MisRepositorios\CSharp-DesignPatterns\SOLID\SingleResponsibilityPrinciple\obj\Debug\net5.0\SingleResponsibilityPrinciple.genruntimeconfig.cache
